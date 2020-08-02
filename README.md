@@ -1,6 +1,8 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/950906/89126834-407fd300-d4a6-11ea-8607-569c49f235fe.gif)
 
 <!--
+### Hi there 👋
+
 **tghastings/tghastings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
