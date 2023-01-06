@@ -1,6 +1,6 @@
 # Curriculum Vitae 
 ### Mr. Thomas G. Hastings
-💻 https://www.thomashastings.com 
+💻 https://www.thomashastings.com \
 ✉ thomas@hastings.dev
 
 #### Education
